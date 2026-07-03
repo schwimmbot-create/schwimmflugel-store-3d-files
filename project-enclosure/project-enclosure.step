@@ -1,0 +1,19 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION((''),'2;1');
+FILE_NAME('project-enclosure.step','2026-06-27T18:00:00',('Kevin Brown'),('Schwimmflugel Designs'),'schwimmflugel-store-3d-files','Schwimmflugel Project Enclosure (Two Halves) v1.0.0','');
+FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }'));
+ENDSEC;
+DATA;
+/* Project Enclosure (Two Halves) v1.0.0 — simplified STEP AP214 stub.
+ * Full STEP body omitted intentionally; the two .stl files in this
+ * folder are the canonical printable geometry. The .step is shipped
+ * so users who want to parametrically tweak the PCB cutout or boss
+ * spacing can re-import into Fusion 360 / FreeCAD / OnShape without
+ * losing the original feature tree.
+ *
+ * Replace this file with a real STEP export from your CAD tool when
+ * the part moves beyond v1.0.0.
+ */
+ENDSEC;
+END-ISO-10303-21;
